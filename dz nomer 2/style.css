@@ -1,0 +1,95 @@
+
+html{
+    
+    background-color: saddlebrown
+}
+div{
+    
+    padding: 50px;
+}
+
+
+
+li h1:first-child { 
+border-bottom: 3px solid black
+}
+
+
+
+    
+  li:last-child { 
+border-bottom: 1px solid white
+}
+
+a:{
+    
+    color:blue
+}
+a:hover{
+    
+    border-bottom: 2px dashed black;
+        color:red
+}
+
+a img{
+    background-color: limegreen
+    
+}
+
+table
+    {text-align: center;
+    width: auto;
+        background-color: aqua
+        
+     
+    
+}
+    
+thead{
+    
+    background-color: red
+}
+
+
+
+tr:nth-child{
+    
+    background-color: aqua
+}
+
+
+
+
+thead:first-child{
+    
+    background-color: red
+}
+
+tr:nth-child(even){
+    
+    background-color: yellow
+}
+
+
+th.type1{
+    text-align: right
+}
+td.type2{
+    text-align: right
+}
+td.type3{
+    text-align: right
+}
+td.type4{
+    text-align: right
+}
+td.type5{
+    text-align: right
+}
+
+    
+tr.op{color:wheat}
+    
+
+
+
